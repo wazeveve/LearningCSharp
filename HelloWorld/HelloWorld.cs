@@ -1,7 +1,7 @@
 ﻿// Console.WriteLine("Hello, World!");
 
-Console.Write("Congratualations!");
-Console.Write(" ");
-Console.Write("You wrote your first lines of code!");
+// Difference between Write and WriteLine.
+Console.WriteLine("Congratualations!");
+Console.Write("You wrote your first lines of code.");
 
 

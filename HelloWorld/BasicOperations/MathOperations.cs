@@ -1,4 +1,5 @@
-﻿int sum = 7 + 5;
+﻿/*
+int sum = 7 + 5;
 int difference = 7 - 5;
 int product = 7 * 5;
 int quotient = 7 / 5;
@@ -24,3 +25,4 @@ int value1 = 3 + 4 * 5;
 int value2 = (3 + 4) * 5;
 Console.WriteLine(value1);
 Console.WriteLine(value2);
+*/

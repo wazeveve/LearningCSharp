@@ -1,4 +1,6 @@
-﻿Console.WriteLine('b');
+﻿
+/*
+Console.WriteLine('b');
 Console.WriteLine(123);
 Console.WriteLine(0.25F);
 Console.WriteLine(2.625);
@@ -17,3 +19,5 @@ int messages  = 3;
 decimal temp = 34.4m;
 
 Console.WriteLine($"Hello, {name}! You have {messages} messages in your inbox. The temperature is {temp} celsius.");
+
+*/
